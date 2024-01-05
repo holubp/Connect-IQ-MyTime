@@ -1,0 +1,3 @@
+bin
+build*
+connect-iq-export/*.iq
