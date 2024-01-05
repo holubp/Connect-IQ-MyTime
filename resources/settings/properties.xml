@@ -1,0 +1,70 @@
+<properties>
+
+	<property id="title" type="string">MyTime</property> 
+	
+	<property id="mainCol" type="number">1</property>  
+	
+	<property id="appid1" type="string"></property> 
+	<property id="appid2" type="string"></property>
+	
+	<property id="calView" type="number">0</property>
+	
+	<property id="battView" type="number">0</property>
+	
+	<property id="dateView" type="number">0</property>
+	
+	<property id="lowPowView" type="number">2</property>
+	
+	<property id="anaZeig" type="number">0</property>
+	<property id="anaZeigSet" type="string">865433</property>
+
+	<property id="anaOut" type="number">3</property>
+	<property id="anaOutSet" type="string">326424</property>
+
+	<property id="anaDig" type="number">1</property>
+	<property id="anaDigSet" type="string">33</property>
+
+	<property id="anaCen" type="number">2</property>
+	<property id="anaCenSet" type="string">48</property>
+	
+	<property id="MyTimeFg" type="number">0</property> 
+	<property id="MyTimeBg" type="number">13</property>
+	
+	<property id="dnd" type="boolean">true</property>
+	 
+	<property id="moveBar" type="boolean">true</property>
+	 
+	<property id="dndOffline" type="boolean">true</property>
+	 
+	<property id="sw" type="boolean">true</property>
+	
+	<property id="oxy" type="boolean">true</property>
+	
+	<property id="line" type="string">From here it's for Dialekt (DE/CH/A)!</property>
+	
+	<property id="h1" type="string">Eis</property>
+	<property id="h2" type="string">Zwöi</property>
+	<property id="h3" type="string">Drüü</property>
+	<property id="h4" type="string">Vieri</property>
+	<property id="h5" type="string">Füüfi</property>
+	<property id="h6" type="string">Sächsi</property>
+	<property id="h7" type="string">Sibbni</property>
+	<property id="h8" type="string">Achti</property>
+	<property id="h9" type="string">Nüüni</property>
+	<property id="h10" type="string">Zääni</property>
+	<property id="h11" type="string">Öufi</property>
+	<property id="h12" type="string">Zwöufi</property>
+	
+	<property id="vor" type="string">vor</property>
+	<property id="ab" type="string">ab</property>
+	<property id="vorh" type="string">vor haubi</property>
+	<property id="abh" type="string">ab haubi</property>
+	
+	<property id="m5_25_35_55" type="string">Füf</property>
+	<property id="m10_50" type="string">Zää</property>
+	<property id="m15_45" type="string">Viertu</property>
+	<property id="m20_40" type="string">Zwänzg</property>
+	<property id="m30" type="string">Haubi</property>
+	<property id="m0" type="string">Es isch</property>
+
+</properties>

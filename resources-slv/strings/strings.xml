@@ -1,0 +1,247 @@
+<strings>
+    <string id="AppName">MyTime</string>
+    
+    <string id="langi">sl</string>
+
+	<string id="title">Title:</string>
+	
+	<string id="mainCol">Watch-Detail-Color:</string>
+	
+	<string id="appid1">KEY from openweathermap.org:</string>
+
+	<string id="appid2">KEY from jawg.io for heigth:</string>
+	
+	<string id="dndOffline">No Meteo-Updates at DoNotDisturb?:</string>
+	
+	<string id="oxy">Oxygen-Saturation?</string>
+
+	<string id="moveBar">Move-Bar?</string>
+
+	<string id="battView">Battery-Display</string>
+	<string id="battViewLine">Lines</string>
+	<string id="battViewPerc">Value in Percent</string>
+
+	<string id="calView">Calories-Display</string>
+	<string id="calViewAll">Active + inactive calories</string>
+	<string id="calViewAct">Only active calories</string>
+	
+	<string id="dateView">Date-Style</string>
+	<string id="dateViewNor">WeekDay/Day/Month</string>
+	<string id="dateViewRev">Month/Day/WeekDay</string>
+	
+	<string id="lowPowView">LowPower-Display:</string>
+	<string id="ana">Analog Clock</string>
+	<string id="tex">Time as text (Only DE/CH/A)</string>
+	<string id="nor">Red. Update-Interval</string>
+	<string id="digi">Digital Clock</string>
+
+	<string id="blank">Blank</string>
+	
+	<string id="anaZeig">Analog Hand Design:</string>
+	<string id="anaLine">Simple Line</string>
+	<string id="anaTri">Long Triangle</string>
+	<string id="anaPt">Points</string>
+
+	<string id="anaZeigSet">Analog Hand Settings: (def=865433)</string>
+
+	<string id="anaOut">Analog Outline Design:</string>
+	<string id="oneMin">1 Minute Lines</string>
+	<string id="fiveMin">5 Minute Lines</string>
+	<string id="onefiveMin">1 and 5 Minute Lines</string>
+	<string id="onePoint">1 Minute Points</string>
+	<string id="fivePoint">5 Minute Points</string>
+	<string id="onefivePoint">1 and 5 Minute Points</string>
+
+	<string id="anaOutSet">Analog Outline Settings: (def=326424)</string>
+
+	<string id="anaDig">Analog Digit Design:</string>
+	<string id="someDig">Clock Digits 6/9/12</string>
+	<string id="allDig">All Digits</string>
+	
+	<string id="anaDigSet">Analog Digit Settings: (def=33)</string>
+
+	<string id="anaCen">Analog Center Design:</string>
+	<string id="oneCen">One Centerpoint</string>
+	<string id="twoCen">Two Centerpoints</string>
+	
+	<string id="anaCenSet">Analog Center Settings: (def=48)</string>
+	
+	<string id="dnd">ScreenOff at DoNotDisturb:</string>
+	
+	<string id="sw">Switch BG/FG-Color after Sunset:</string>
+	
+	<string id="line">----------------------------------------:</string>
+	
+	<string id="h1">1 / 13 Uhr</string>
+	<string id="h2">2 / 14 Uhr</string>
+	<string id="h3">3 / 15 Uhr</string>
+	<string id="h4">4 / 16 Uhr</string>
+	<string id="h5">5 / 17 Uhr</string>
+	<string id="h6">6 / 18 Uhr</string>
+	<string id="h7">7 / 19 Uhr</string>
+	<string id="h8">8 / 20 Uhr</string>
+	<string id="h9">9 / 21 Uhr</string>
+	<string id="h10">10 / 22 Uhr</string>
+	<string id="h11">11 / 23 Uhr</string>
+	<string id="h12">12 / 24 Uhr</string> 
+
+	<string id="vor">vor X Uhr</string>
+	<string id="ab">nach X Uhr</string>
+	<string id="vorh">vor halb X Uhr</string>
+	<string id="abh">nach halb X Uhr</string>
+
+	<string id="m5_25_35_55">5 vor / nach</string>
+	<string id="m10_50">10 vor / nach</string>
+	<string id="m15_45">15 vor / nach</string>
+	<string id="m20_40">20 vor / nach</string>
+	<string id="m30">Halbe Stunde</string>
+	<string id="m0">Volle Stunde</string>
+
+	<string id="MyTimeFg">Foreground-Color:</string>
+	<string id="MyTimeBg">Background-Color:</string>
+	
+	<string id="Weiss">bela</string>
+	<string id="Blau">modra</string>
+	<string id="DK_Blau">temno modra</string>
+	<string id="Rot">rdeča</string>
+	<string id="DK_Rot">temno rdeča</string>
+	<string id="Grün">zelena</string>
+	<string id="DK_Grün">temno zelena</string>
+	<string id="Orange">oranžna</string>
+	<string id="Gelb">rumena</string>
+	<string id="Pink">roza</string>
+	<string id="Violett">vijolična</string>
+	<string id="Grau">siva</string>
+	<string id="DK_Grau">temno siva</string>
+	<string id="Schwarz">črna</string>
+	<string id="C1">Color 1</string>
+	<string id="C2">Color 2</string>
+	<string id="C3">Color 3</string>
+	<string id="C4">Color 4</string>
+	<string id="C5">Color 5</string>
+	<string id="C6">Color 6</string>
+	<string id="C7">Color 7</string>
+	<string id="C8">Color 8</string>
+	<string id="C9">Color 9</string>
+	<string id="C10">Color 10</string>
+	<string id="C11">Color 11</string>
+	<string id="C12">Color 12</string>
+	<string id="C13">Color 13</string>
+	<string id="C14">Color 14</string>
+	<string id="C15">Color 15</string>
+	<string id="C16">Color 16</string>
+	<string id="C17">Color 17</string>
+	<string id="C18">Color 18</string>
+	<string id="C19">Color 19</string>
+	<string id="C20">Color 20</string>
+	<string id="C21">Color 21</string>
+	<string id="C22">Color 22</string>
+	<string id="C23">Color 23</string>
+	<string id="C24">Color 24</string>
+	<string id="C25">Color 25</string>
+	<string id="C26">Color 26</string>
+	<string id="C27">Color 27</string>
+	<string id="C28">Color 28</string>
+	<string id="C29">Color 29</string>
+	<string id="C30">Color 30</string>
+	<string id="C31">Color 31</string>
+	<string id="C32">Color 32</string>
+	<string id="C33">Color 33</string>
+	<string id="C34">Color 34</string>
+	<string id="C35">Color 35</string>
+	<string id="C36">Color 36</string>
+	<string id="C37">Color 37</string>
+	<string id="C38">Color 38</string>
+	<string id="C39">Color 39</string>
+	<string id="C40">Color 40</string>
+	<string id="C41">Color 41</string>
+	<string id="C42">Color 42</string>
+	<string id="C43">Color 43</string>
+	<string id="C44">Color 44</string>
+	<string id="C45">Color 45</string>
+	<string id="C46">Color 46</string>
+	<string id="C47">Color 47</string>
+	<string id="C48">Color 48</string>
+	<string id="C49">Color 49</string>
+	<string id="C50">Color 50</string>
+	<string id="C51">Color 51</string>
+	<string id="C52">Color 52</string>
+	<string id="C53">Color 53</string>
+	<string id="C54">Color 54</string>
+	<string id="C55">Color 55</string>
+	<string id="C56">Color 56</string>
+	<string id="C57">Color 57</string>
+	<string id="C58">Color 58</string>
+	<string id="C59">Color 59</string>
+	<string id="C60">Color 60</string>
+	<string id="C61">Color 61</string>
+	<string id="C62">Color 62</string>
+	<string id="C63">Color 63</string>
+	<string id="C64">Color 64</string>
+	<string id="C65">Color 65</string>
+	<string id="C66">Color 66</string>
+	<string id="C67">Color 67</string>
+	<string id="C68">Color 68</string>
+	<string id="C69">Color 69</string>
+	<string id="C70">Color 70</string>
+	<string id="C71">Color 71</string>
+	<string id="C72">Color 72</string>
+	<string id="C73">Color 73</string>
+	<string id="C74">Color 74</string>
+	<string id="C75">Color 75</string>
+	<string id="C76">Color 76</string>
+	<string id="C77">Color 77</string>
+	<string id="C78">Color 78</string>
+	<string id="C79">Color 79</string>
+	<string id="C80">Color 80</string>
+	<string id="C81">Color 81</string>
+	<string id="C82">Color 82</string>
+	<string id="C83">Color 83</string>
+	<string id="C84">Color 84</string>
+	<string id="C85">Color 85</string>
+	<string id="C86">Color 86</string>
+	<string id="C87">Color 87</string>
+	<string id="C88">Color 88</string>
+	<string id="C89">Color 89</string>
+	<string id="C90">Color 90</string>
+	<string id="C91">Color 91</string>
+	<string id="C92">Color 92</string>
+	<string id="C93">Color 93</string>
+	<string id="C94">Color 94</string>
+	<string id="C95">Color 95</string>
+	<string id="C96">Color 96</string>
+	<string id="C97">Color 97</string>
+	<string id="C98">Color 98</string>
+	<string id="C99">Color 99</string>
+	<string id="C100">Color 100</string>
+	<string id="C101">Color 101</string>
+	<string id="C102">Color 102</string>
+	<string id="C103">Color 103</string>
+	<string id="C104">Color 104</string>
+	<string id="C105">Color 105</string>
+	<string id="C106">Color 106</string>
+	<string id="C107">Color 107</string>
+	<string id="C108">Color 108</string>
+
+	<string id="d1">Po</string>
+	<string id="d2">To</string>
+	<string id="d3">Sr</string>
+	<string id="d4">Če</string>
+	<string id="d5">Pe</string>
+	<string id="d6">So</string>
+	<string id="d7">Ne</string>
+
+	<string id="m1">Jan</string>
+	<string id="m2">Feb</string>
+	<string id="m3">Mar</string>
+	<string id="m4">Apr</string>
+	<string id="m5">Maj</string>
+	<string id="m6">Jun</string>
+	<string id="m7">Jul</string>
+	<string id="m8">Avg</string>
+	<string id="m9">Sep</string>
+	<string id="m10">Okt</string>
+	<string id="m11">Nov</string>
+	<string id="m12">Dec</string>
+	
+</strings>

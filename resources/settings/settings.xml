@@ -1,0 +1,355 @@
+<settings>
+
+<setting propertyKey="@Properties.title" title="@Strings.title">
+<settingConfig type="alphaNumeric" required="true" />
+</setting>
+
+<setting propertyKey="@Properties.mainCol" title="@Strings.mainCol" helpUrl="https://docs.google.com/spreadsheets/d/1Jx44f4s-U-OR43yZ6TEhJRnOaP8hr36-dVyKa5t88R0/edit#gid=2068226865">
+	<settingConfig type="list">
+		<listEntry value="0">@Strings.Weiss</listEntry>
+		<listEntry value="1">@Strings.Blau</listEntry>
+		<listEntry value="2">@Strings.DK_Blau</listEntry>
+		<listEntry value="3">@Strings.Rot</listEntry>
+		<listEntry value="4">@Strings.DK_Rot</listEntry>
+		<listEntry value="5">@Strings.Grün</listEntry>
+		<listEntry value="6">@Strings.DK_Grün</listEntry>
+		<listEntry value="7">@Strings.Orange</listEntry>
+		<listEntry value="8">@Strings.Gelb</listEntry>
+		<listEntry value="9">@Strings.Pink</listEntry>
+		<listEntry value="10">@Strings.Violett</listEntry>
+		<listEntry value="11">@Strings.Grau</listEntry>
+		<listEntry value="12">@Strings.DK_Grau</listEntry>
+		<listEntry value="13">@Strings.Schwarz</listEntry>
+		<listEntry value="14">@Strings.C1</listEntry>
+		<listEntry value="15">@Strings.C2</listEntry>
+		<listEntry value="16">@Strings.C3</listEntry>
+		<listEntry value="17">@Strings.C4</listEntry>
+		<listEntry value="18">@Strings.C5</listEntry>
+		<listEntry value="19">@Strings.C6</listEntry>
+		<listEntry value="20">@Strings.C7</listEntry>
+		<listEntry value="21">@Strings.C8</listEntry>
+		<listEntry value="22">@Strings.C9</listEntry>
+		<listEntry value="23">@Strings.C10</listEntry>
+		<listEntry value="24">@Strings.C11</listEntry>
+		<listEntry value="25">@Strings.C12</listEntry>
+		<listEntry value="26">@Strings.C13</listEntry>
+		<listEntry value="27">@Strings.C14</listEntry>
+		<listEntry value="28">@Strings.C15</listEntry>
+		<listEntry value="29">@Strings.C16</listEntry>
+		<listEntry value="30">@Strings.C17</listEntry>
+		<listEntry value="31">@Strings.C18</listEntry>
+		<listEntry value="32">@Strings.C19</listEntry>
+		<listEntry value="33">@Strings.C20</listEntry>
+		<listEntry value="34">@Strings.C21</listEntry>
+		<listEntry value="35">@Strings.C22</listEntry>
+		<listEntry value="36">@Strings.C23</listEntry>
+		<listEntry value="37">@Strings.C24</listEntry>
+		<listEntry value="38">@Strings.C25</listEntry>
+		<listEntry value="39">@Strings.C26</listEntry>
+		<listEntry value="40">@Strings.C27</listEntry>
+		<listEntry value="41">@Strings.C28</listEntry>
+		<listEntry value="42">@Strings.C29</listEntry>
+		<listEntry value="43">@Strings.C30</listEntry>
+		<listEntry value="44">@Strings.C31</listEntry>
+		<listEntry value="45">@Strings.C32</listEntry>
+		<listEntry value="46">@Strings.C33</listEntry>
+		<listEntry value="47">@Strings.C34</listEntry>
+		<listEntry value="48">@Strings.C35</listEntry>
+		<listEntry value="49">@Strings.C36</listEntry>
+		<listEntry value="50">@Strings.C37</listEntry>
+		<listEntry value="51">@Strings.C38</listEntry>
+		<listEntry value="52">@Strings.C39</listEntry>
+		<listEntry value="53">@Strings.C40</listEntry>
+		<listEntry value="54">@Strings.C41</listEntry>
+		<listEntry value="55">@Strings.C42</listEntry>
+		<listEntry value="56">@Strings.C43</listEntry>
+		<listEntry value="57">@Strings.C44</listEntry>
+		<listEntry value="58">@Strings.C45</listEntry>
+		<listEntry value="59">@Strings.C46</listEntry>
+		<listEntry value="60">@Strings.C47</listEntry>
+		<listEntry value="61">@Strings.C48</listEntry>
+		<listEntry value="62">@Strings.C49</listEntry>
+		<listEntry value="63">@Strings.C50</listEntry>
+		<listEntry value="64">@Strings.C51</listEntry>
+		<listEntry value="65">@Strings.C52</listEntry>
+		<listEntry value="66">@Strings.C53</listEntry>
+		<listEntry value="67">@Strings.C54</listEntry>
+		<listEntry value="68">@Strings.C55</listEntry>
+		<listEntry value="69">@Strings.C56</listEntry>
+		<listEntry value="70">@Strings.C57</listEntry>
+		<listEntry value="71">@Strings.C58</listEntry>
+		<listEntry value="72">@Strings.C59</listEntry>
+		<listEntry value="73">@Strings.C60</listEntry>
+		<listEntry value="74">@Strings.C61</listEntry>
+		<listEntry value="75">@Strings.C62</listEntry>
+		<listEntry value="76">@Strings.C63</listEntry>
+		<listEntry value="77">@Strings.C64</listEntry>
+		<listEntry value="78">@Strings.C65</listEntry>
+		<listEntry value="79">@Strings.C66</listEntry>
+		<listEntry value="80">@Strings.C67</listEntry>
+		<listEntry value="81">@Strings.C68</listEntry>
+		<listEntry value="82">@Strings.C69</listEntry>
+		<listEntry value="83">@Strings.C70</listEntry>
+		<listEntry value="84">@Strings.C71</listEntry>
+		<listEntry value="85">@Strings.C72</listEntry>
+		<listEntry value="86">@Strings.C73</listEntry>
+		<listEntry value="87">@Strings.C74</listEntry>
+		<listEntry value="88">@Strings.C75</listEntry>
+		<listEntry value="89">@Strings.C76</listEntry>
+		<listEntry value="90">@Strings.C77</listEntry>
+		<listEntry value="91">@Strings.C78</listEntry>
+		<listEntry value="92">@Strings.C79</listEntry>
+		<listEntry value="93">@Strings.C80</listEntry>
+		<listEntry value="94">@Strings.C81</listEntry>
+		<listEntry value="95">@Strings.C82</listEntry>
+		<listEntry value="96">@Strings.C83</listEntry>
+		<listEntry value="97">@Strings.C84</listEntry>
+		<listEntry value="98">@Strings.C85</listEntry>
+		<listEntry value="99">@Strings.C86</listEntry>
+		<listEntry value="100">@Strings.C87</listEntry>
+		<listEntry value="101">@Strings.C88</listEntry>
+		<listEntry value="102">@Strings.C89</listEntry>
+		<listEntry value="103">@Strings.C90</listEntry>
+		<listEntry value="104">@Strings.C91</listEntry>
+		<listEntry value="105">@Strings.C92</listEntry>
+		<listEntry value="106">@Strings.C93</listEntry>
+		<listEntry value="107">@Strings.C94</listEntry>
+		<listEntry value="108">@Strings.C95</listEntry>
+		<listEntry value="109">@Strings.C96</listEntry>
+		<listEntry value="110">@Strings.C97</listEntry>
+		<listEntry value="111">@Strings.C98</listEntry>
+		<listEntry value="112">@Strings.C99</listEntry>
+		<listEntry value="113">@Strings.C100</listEntry>
+		<listEntry value="114">@Strings.C101</listEntry>
+		<listEntry value="115">@Strings.C102</listEntry>
+		<listEntry value="116">@Strings.C103</listEntry>
+		<listEntry value="117">@Strings.C104</listEntry>
+		<listEntry value="118">@Strings.C105</listEntry>
+		<listEntry value="119">@Strings.C106</listEntry>
+		<listEntry value="120">@Strings.C107</listEntry>
+		<listEntry value="121">@Strings.C108</listEntry>
+	</settingConfig>
+</setting>
+
+<setting propertyKey="@Properties.MyTimeFg" title="@Strings.MyTimeFg">
+	<settingConfig type="list">
+		<listEntry value="0">@Strings.Weiss</listEntry>
+		<listEntry value="1">@Strings.Blau</listEntry>
+		<listEntry value="2">@Strings.DK_Blau</listEntry> 
+		<listEntry value="3">@Strings.Rot</listEntry>
+		<listEntry value="4">@Strings.DK_Rot</listEntry>
+		<listEntry value="5">@Strings.Grün</listEntry>
+		<listEntry value="6">@Strings.DK_Grün</listEntry>
+		<listEntry value="7">@Strings.Orange</listEntry>
+		<listEntry value="8">@Strings.Gelb</listEntry>
+		<listEntry value="9">@Strings.Pink</listEntry>
+		<listEntry value="10">@Strings.Violett</listEntry>
+		<listEntry value="11">@Strings.Grau</listEntry>
+		<listEntry value="12">@Strings.DK_Grau</listEntry>
+		<listEntry value="13">@Strings.Schwarz</listEntry>
+	</settingConfig>
+</setting>
+
+<setting propertyKey="@Properties.MyTimeBg" title="@Strings.MyTimeBg">
+	<settingConfig type="list">
+		<listEntry value="0">@Strings.Weiss</listEntry>
+		<listEntry value="1">@Strings.Blau</listEntry>
+		<listEntry value="2">@Strings.DK_Blau</listEntry>
+		<listEntry value="3">@Strings.Rot</listEntry>
+		<listEntry value="4">@Strings.DK_Rot</listEntry>
+		<listEntry value="5">@Strings.Grün</listEntry>
+		<listEntry value="6">@Strings.DK_Grün</listEntry>
+		<listEntry value="7">@Strings.Orange</listEntry>
+		<listEntry value="8">@Strings.Gelb</listEntry>
+		<listEntry value="9">@Strings.Pink</listEntry>
+		<listEntry value="10">@Strings.Violett</listEntry>
+		<listEntry value="11">@Strings.Grau</listEntry>
+		<listEntry value="12">@Strings.DK_Grau</listEntry>
+		<listEntry value="13">@Strings.Schwarz</listEntry>
+	</settingConfig>
+</setting>
+
+<setting propertyKey="@Properties.appid1" title="@Strings.appid1" helpUrl="https://openweathermap.org/appid"> 
+<settingConfig type="alphaNumeric" required="false" />
+</setting>
+
+<setting propertyKey="@Properties.appid2" title="@Strings.appid2" helpUrl="https://www.jawg.io/docs/apidocs/elevation/#access-token">
+<settingConfig type="alphaNumeric" required="false" />
+</setting>
+
+<setting propertyKey="@Properties.lowPowView" title="@Strings.lowPowView">
+	<settingConfig type="list">
+		<listEntry value="0">@Strings.ana</listEntry>
+		<listEntry value="1">@Strings.tex</listEntry>
+		<listEntry value="2">@Strings.nor</listEntry>
+		<listEntry value="3">@Strings.digi</listEntry> 
+	</settingConfig>
+</setting>
+
+<setting propertyKey="@Properties.moveBar" title="@Strings.moveBar">
+<settingConfig type="boolean" /> 
+</setting>
+
+<setting propertyKey="@Properties.oxy" title="@Strings.oxy">
+<settingConfig type="boolean" /> 
+</setting>
+
+<setting propertyKey="@Properties.dnd" title="@Strings.dnd">
+<settingConfig type="boolean" /> 
+</setting>
+
+<setting propertyKey="@Properties.dndOffline" title="@Strings.dndOffline">
+<settingConfig type="boolean" /> 
+</setting>
+
+<setting propertyKey="@Properties.sw" title="@Strings.sw">
+<settingConfig type="boolean" />
+</setting>
+
+<setting propertyKey="@Properties.battView" title="@Strings.battView">
+	<settingConfig type="list">
+		<listEntry value="0">@Strings.battViewLine</listEntry>
+		<listEntry value="1">@Strings.battViewPerc</listEntry>
+	</settingConfig>
+</setting>
+
+<setting propertyKey="@Properties.calView" title="@Strings.calView">
+	<settingConfig type="list">
+		<listEntry value="0">@Strings.calViewAll</listEntry>
+		<listEntry value="1">@Strings.calViewAct</listEntry>
+	</settingConfig>
+</setting>
+
+<setting propertyKey="@Properties.dateView" title="@Strings.dateView">
+	<settingConfig type="list">
+		<listEntry value="0">@Strings.dateViewNor</listEntry>
+		<listEntry value="1">@Strings.dateViewRev</listEntry>
+	</settingConfig>
+</setting>
+
+<setting propertyKey="@Properties.anaZeig" title="@Strings.anaZeig">
+	<settingConfig type="list">
+		<listEntry value="0">@Strings.anaLine</listEntry>
+		<listEntry value="1">@Strings.anaTri</listEntry>
+		<listEntry value="2">@Strings.anaPt</listEntry>
+	</settingConfig>
+</setting>
+
+<setting propertyKey="@Properties.anaZeigSet" title="@Strings.anaZeigSet" helpUrl="https://docs.google.com/spreadsheets/d/1Jx44f4s-U-OR43yZ6TEhJRnOaP8hr36-dVyKa5t88R0/edit#gid=1689479380"> 
+<settingConfig type="alphaNumeric" required="true" />
+</setting>
+
+<setting propertyKey="@Properties.anaOut" title="@Strings.anaOut">
+	<settingConfig type="list">
+		<listEntry value="0">@Strings.blank</listEntry>
+		<listEntry value="1">@Strings.oneMin</listEntry>
+		<listEntry value="2">@Strings.fiveMin</listEntry>
+		<listEntry value="3">@Strings.onefiveMin</listEntry>
+		<listEntry value="4">@Strings.onePoint</listEntry>
+		<listEntry value="5">@Strings.fivePoint</listEntry>
+		<listEntry value="6">@Strings.onefivePoint</listEntry>
+	</settingConfig>
+</setting>
+
+<setting propertyKey="@Properties.anaOutSet" title="@Strings.anaOutSet" helpUrl="https://docs.google.com/spreadsheets/d/1Jx44f4s-U-OR43yZ6TEhJRnOaP8hr36-dVyKa5t88R0/edit#gid=1689479380"> 
+<settingConfig type="alphaNumeric" required="true" />
+</setting>
+
+<setting propertyKey="@Properties.anaDig" title="@Strings.anaDig">
+	<settingConfig type="list">
+		<listEntry value="0">@Strings.blank</listEntry>
+		<listEntry value="1">@Strings.someDig</listEntry>
+		<listEntry value="2">@Strings.allDig</listEntry>
+	</settingConfig>
+</setting>
+
+<setting propertyKey="@Properties.anaDigSet" title="@Strings.anaDigSet" helpUrl="https://docs.google.com/spreadsheets/d/1Jx44f4s-U-OR43yZ6TEhJRnOaP8hr36-dVyKa5t88R0/edit#gid=1689479380"> 
+<settingConfig type="alphaNumeric" required="true" />
+</setting>
+
+<setting propertyKey="@Properties.anaCen" title="@Strings.anaCen">
+	<settingConfig type="list">
+		<listEntry value="0">@Strings.blank</listEntry>
+		<listEntry value="1">@Strings.oneCen</listEntry>
+		<listEntry value="2">@Strings.twoCen</listEntry>
+	</settingConfig>
+</setting>
+
+<setting propertyKey="@Properties.anaCenSet" title="@Strings.anaCenSet" helpUrl="https://docs.google.com/spreadsheets/d/1Jx44f4s-U-OR43yZ6TEhJRnOaP8hr36-dVyKa5t88R0/edit#gid=1689479380"> 
+<settingConfig type="alphaNumeric" required="true" />
+</setting>
+
+<setting propertyKey="@Properties.line" title="@Strings.line">
+<settingConfig type="alphaNumeric" readonly="true"/>
+</setting>
+
+<setting propertyKey="@Properties.h1" title="@Strings.h1">
+<settingConfig type="alphaNumeric" required="true" />
+</setting>
+<setting propertyKey="@Properties.h2" title="@Strings.h2">
+<settingConfig type="alphaNumeric" required="true" />
+</setting>
+<setting propertyKey="@Properties.h3" title="@Strings.h3">
+<settingConfig type="alphaNumeric" required="true" />
+</setting>
+<setting propertyKey="@Properties.h4" title="@Strings.h4">
+<settingConfig type="alphaNumeric" required="true" />
+</setting>
+<setting propertyKey="@Properties.h5" title="@Strings.h5">
+<settingConfig type="alphaNumeric" required="true" />
+</setting>
+<setting propertyKey="@Properties.h6" title="@Strings.h6">
+<settingConfig type="alphaNumeric" required="true" />
+</setting>
+<setting propertyKey="@Properties.h7" title="@Strings.h7">
+<settingConfig type="alphaNumeric" required="true" />
+</setting>
+<setting propertyKey="@Properties.h8" title="@Strings.h8">
+<settingConfig type="alphaNumeric" required="true" />
+</setting>
+<setting propertyKey="@Properties.h9" title="@Strings.h9">
+<settingConfig type="alphaNumeric" required="true" />
+</setting>
+<setting propertyKey="@Properties.h10" title="@Strings.h10">
+<settingConfig type="alphaNumeric" required="true" />
+</setting>
+<setting propertyKey="@Properties.h11" title="@Strings.h11">
+<settingConfig type="alphaNumeric" required="true" />
+</setting>
+<setting propertyKey="@Properties.h12" title="@Strings.h12">
+<settingConfig type="alphaNumeric" required="true" />
+</setting>
+
+<setting propertyKey="@Properties.vor" title="@Strings.vor">
+<settingConfig type="alphaNumeric" required="true" />
+</setting>
+<setting propertyKey="@Properties.ab" title="@Strings.ab">
+<settingConfig type="alphaNumeric" required="true" />
+</setting>
+<setting propertyKey="@Properties.vorh" title="@Strings.vorh">
+<settingConfig type="alphaNumeric" required="true" />
+</setting>
+<setting propertyKey="@Properties.abh" title="@Strings.abh">
+<settingConfig type="alphaNumeric" required="true" />
+</setting>
+
+<setting propertyKey="@Properties.m5_25_35_55" title="@Strings.m5_25_35_55">
+<settingConfig type="alphaNumeric" required="true" />
+</setting>
+<setting propertyKey="@Properties.m10_50" title="@Strings.m10_50">
+<settingConfig type="alphaNumeric" required="true" />
+</setting>
+<setting propertyKey="@Properties.m15_45" title="@Strings.m15_45">
+<settingConfig type="alphaNumeric" required="true" />
+</setting>
+<setting propertyKey="@Properties.m20_40" title="@Strings.m20_40">
+<settingConfig type="alphaNumeric" required="true" />
+</setting>
+<setting propertyKey="@Properties.m30" title="@Strings.m30">
+<settingConfig type="alphaNumeric" required="true" />
+</setting>
+<setting propertyKey="@Properties.m0" title="@Strings.m0">
+<settingConfig type="alphaNumeric" required="true" />
+</setting>
+
+</settings> 
