@@ -1,3 +1,3 @@
 # MyTime Watch Face for Garmin ConnectIQ
 
-Originally developed by Michael Fankhauser (mfanki).
+Mintenance version of MyTime Gamin watch face originally developed by mfanki.
